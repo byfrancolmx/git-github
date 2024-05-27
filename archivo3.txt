@@ -1,0 +1,2 @@
+esto va a ser ignorado
+ahora este archivo no esta ignorado
